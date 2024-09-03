@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalSolt.NET", "SignalSolt.NET.csproj", "{AF16BBE1-77B3-4D92-A04F-83314D0E9374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "..\WindowsFormsApp1\WindowsFormsApp1.csproj", "{CCBDDCA7-5673-48D9-B8FD-DD010F3A7E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		X86Debug|Any CPU = X86Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF16BBE1-77B3-4D92-A04F-83314D0E9374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF16BBE1-77B3-4D92-A04F-83314D0E9374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF16BBE1-77B3-4D92-A04F-83314D0E9374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF16BBE1-77B3-4D92-A04F-83314D0E9374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF16BBE1-77B3-4D92-A04F-83314D0E9374}.X86Debug|Any CPU.ActiveCfg = X86Debug|Any CPU
+		{AF16BBE1-77B3-4D92-A04F-83314D0E9374}.X86Debug|Any CPU.Build.0 = X86Debug|Any CPU
+		{CCBDDCA7-5673-48D9-B8FD-DD010F3A7E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBDDCA7-5673-48D9-B8FD-DD010F3A7E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBDDCA7-5673-48D9-B8FD-DD010F3A7E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBDDCA7-5673-48D9-B8FD-DD010F3A7E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBDDCA7-5673-48D9-B8FD-DD010F3A7E06}.X86Debug|Any CPU.ActiveCfg = X86Debug|Any CPU
+		{CCBDDCA7-5673-48D9-B8FD-DD010F3A7E06}.X86Debug|Any CPU.Build.0 = X86Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F02D4F9-2F96-4F4F-8F60-B956BDC8BB71}
+	EndGlobalSection
+EndGlobal
